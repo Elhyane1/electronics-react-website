@@ -1,0 +1,196 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Lenovo IdeaPad Slim 3",
+      "category": "laptop",
+      "description": "IdeaPad Slim 3 Chromebook - 2024 - Lightweight Laptop - Waves MaxxAudio® Speakers - 14",
+      "price": 10000,
+      "image": "https://m.media-amazon.com/images/I/61BRKJYlOSL._AC_SL1500_.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Lenovo 2022 Ideapad 3",
+      "category": "laptop",
+      "description": "Lenovo 2022 Ideapad 3 Laptop, 15.6 HD Touchscreen, 11th Gen Intel Core i3-1115G4 Processor",
+      "price": 15000,
+      "image": "https://m.media-amazon.com/images/I/81M05PyYgYL._AC_SL1500_.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Dell Inspiron",
+      "category": "laptop",
+      "description": "Dell Inspiron Touchscreen Laptop, 15.6 Business & Student Laptop Computer, Windows 11 Pro Laptop 32GB RAM 1TB SSD",
+      "price": 13000,
+      "image": "https://m.media-amazon.com/images/I/61Wc1fDGJuL._AC_SL1200_.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Dell Latitude 7420",
+      "category": "laptop",
+      "description": "Dell Latitude 7420 Laptop, 14” FHD Display, Intel Core i5-1145G7 Quad Core 11th Gen Processor, 16GB RAM, 512GB SSD",
+      "price": 12000,
+      "image": "https://m.media-amazon.com/images/I/51lVOMRBe8L._AC_SL1000_.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Apple 2022 MacBook Air",
+      "category": "laptop",
+      "description": "Apple 2022 MacBook Air Laptop with M2 chip: Built for Apple Intelligence, 13.6-inch Liquid Retina Display, 16GB RAM, 256GB SSD Storage",
+      "price": 15000,
+      "image": "https://m.media-amazon.com/images/I/710TJuHTMhL._AC_SL1500_.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Apple 2024 MacBook Pro",
+      "category": "laptop",
+      "description": "Apple 2024 MacBook Pro Laptop with M4, 10‑core CPU, 10‑core GPU: Built for Apple Intelligence, 14.2-inch Liquid Retina XDR Display, 24GB Unified Memory, 512GB SSD ",
+      "price": 12000,
+      "image": "https://m.media-amazon.com/images/I/61-oTP1X4rL._AC_SL1500_.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Apple Watch Series 9",
+      "category": "smartwatche",
+      "description": "Apple Watch Series 9 [GPS 41mm] Smartwatch with Midnight Aluminum Case with Midnight Sport Loop One Size",
+      "price": 600,
+      "image": "https://m.media-amazon.com/images/I/81IcDjLAT5L._AC_SL1500_.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Apple Watch Ultra 2",
+      "category": "smartwatche",
+      "description": "Apple Watch Ultra 2 [GPS + Cellular 49mm] Smartwatch, Sport Watch with Black Titanium Case with Dark Green Alpine Loop - S",
+      "price": 800,
+      "image": "https://m.media-amazon.com/images/I/81vLYHVwqjL._AC_SL1500_.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Apple Watch Series 10",
+      "category": "smartwatche",
+      "description": "Apple Watch Series 10 [GPS 42mm case] Smartwatch with Rose Gold Aluminium Case with Light Blush Sport Band - S/M",
+      "price": 800,
+      "image": "https://m.media-amazon.com/images/I/61Z8y0y2b0L._AC_SL1500_.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Garmin Venu 3S",
+      "category": "smartwatche",
+      "description": "Garmin Venu 3S Soft Gold Stainless Steel Bezel 1.2-Inch AMOLED Touchscreen Display",
+      "price": 400,
+      "image": "https://m.media-amazon.com/images/I/61oLm0rWyGL._AC_SL1500_.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Samsung Galaxy Watch 7",
+      "category": "smartwatche",
+      "description": "Samsung Galaxy Watch 7 44mm Bluetooth AI Smartwatch w/Energy Score",
+      "price": 1000,
+      "image": "https://m.media-amazon.com/images/I/71E8iEWXY9L._AC_SL1500_.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Samsung Galaxy Watch 6",
+      "category": "smartwatche",
+      "description": "Samsung Galaxy Watch 6 Classic 47mm Bluetooth Smartwatch, Rotating Bezel, Fitness Tracker, Personalized HR Zones",
+      "price": 1050,
+      "image": "https://m.media-amazon.com/images/I/81Dm65eja8L._AC_SL1500_.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Fitbit Versa 4",
+      "category": "smartwatche",
+      "description": "Fitbit Versa 4 Health & Fitness Smartwatch with GPS, 24/7 Heart Rate, Sleep Tracking, Workout Modes",
+      "price": 1050,
+      "image": "https://m.media-amazon.com/images/I/61GToIi6WmL._AC_SL1500_.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Xbox Serie S",
+        "category": "gaming",
+        "description": "Microsoft Xbox One Special Edition inMatte Blackin 500GB",
+        "price": 15000,
+        "image": "https://m.media-amazon.com/images/I/61hwaBMvOxL._SL1500_.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Xbox One special edition",
+        "category": "gaming",
+        "description": "Microsoft Xbox One Special Edition inMatte Blackin 500GB (video game)(Renewed)",
+        "price": 5000,
+        "image": "https://m.media-amazon.com/images/I/61RA2sUPu+L._SL1000_.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Holy Stone",
+        "category": "drone",
+        "description": "Holy Stone GPS Drone with 4K UHD Camera for Adults Beginner; HS360S 249g Foldable FPV RC Quadcopter with 10000 Feet Control Range",
+        "price": 50000,
+        "image": "https://m.media-amazon.com/images/I/61vufzhhQ6L._AC_SL1100_.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Bwine F7",
+        "category": "drone",
+        "description": "Bwine F7 GPS Drones with Camera for Adults 4K Night Vision, 3-Aix Gimbal, 2Mile Long Range",
+        "price": 55000,
+        "image": "https://m.media-amazon.com/images/I/71MXSXprBnL._AC_SL1500_.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Iphone 16 pro",
+        "category": "smartphone",
+        "description": "iPhone 16 Pro. Avec un superbe design en titane. Commande de l'appareil photo. Dolby Vision 4K à 120 i/s. Et la puce A18 Pro.",
+        "price": 9999,
+        "image": "https://mediazone.ma/uploads/images/products/16179/16179-SNhRsXgf.webp"
+    },
+    {
+        "id": 20,
+        "name": "SAMSUNG Galaxy A16",
+        "category": "smartphone",
+        "description": "SAMSUNG Galaxy A16 5G A Series Cell Phone, Unlocked Android Smartphone, Large AMOLED Display",
+        "price": 15000,
+        "image": "https://m.media-amazon.com/images/I/71KGkQ+KOKL._AC_SL1500_.jpg"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "username": "client",
+      "email": "client@gmail.com",
+      "password": "client123",
+      "role": "client"
+    }
+  ],
+  "orders": [
+    {
+      "id": "9e7d",
+      "cartItems": [
+        {
+          "id": 8,
+          "name": "Apple Watch Ultra 2",
+          "category": "smartwatche",
+          "description": "Apple Watch Ultra 2 [GPS + Cellular 49mm] Smartwatch, Sport Watch with Black Titanium Case with Dark Green Alpine Loop - S",
+          "price": 800,
+          "image": "https://m.media-amazon.com/images/I/81vLYHVwqjL._AC_SL1500_.jpg",
+          "quantity": 2
+        }
+      ],
+      "shippingInfo": {
+        "name": "abdellah",
+        "address": "address",
+        "phone": "060000000"
+      },
+      "totalPrice": 1600,
+      "status": "Pending"
+    }
+  ],
+  "messages": []
+}
