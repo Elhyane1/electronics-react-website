@@ -18,7 +18,7 @@ export default function Products() {
     const itemsPerPage = 8; // Number of items per page
 
     useEffect(() => {
-        axios('http://localhost:5000/products')
+        axios('https://mahogany-beryl-vole.glitch.me/api/products')
             .then(response => setProducts(response.data))
             .catch(error => console.error('Error while fetching: ', error));
     }, []);

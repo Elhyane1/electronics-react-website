@@ -23,7 +23,7 @@ function Contact() {
 
         try {
             // Send the POST request to the JSON Server
-            await axios.post("http://localhost:5000/messages", contactMessage);
+            await axios.post("https://mahogany-beryl-vole.glitch.me/api/messages", contactMessage);
 
             // Reset form fields after successful submission
             setName("");
