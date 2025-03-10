@@ -1,10 +1,13 @@
 /* eslint-disable no-undef */
+const express = require("express");
 const jsonServer = require("json-server");
-const server = jsonServer.create();
-const router = jsonServer.router("db.json"); // Your fake database
+
+const app = express();
+const router = jsonServer.router("db.json");
 const middlewares = jsonServer.defaults();
 
-server.use(middlewares);
-server.use(router);
+app.use(middlewares);
+app.use(router);
 
-module.exports = server;
+// Export the serverless function
+module.exports = app;
