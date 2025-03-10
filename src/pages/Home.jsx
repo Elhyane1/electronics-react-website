@@ -19,7 +19,7 @@ export default function Home() {
     const dispatch = useDispatch();
 
     useEffect(() => {
-        axios('https://v0-ecommerce-rho-puce.vercel.app/api/products')
+        axios('https://mahogany-beryl-vole.glitch.me/api/products')
             .then(response => setProducts(response.data))
             .catch(error => console.error('error while fetching: ', error))
     }, [])
